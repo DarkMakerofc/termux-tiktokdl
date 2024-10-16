@@ -2,7 +2,10 @@
 An Simple tiktok video internal storage save app
 
 ## Steps.
-1. Download termux app.
+1. Download termux app , open app and give storage permission.
+```bash
+termux-setup-storage
+```  
 2. Update packages.
 ```bash
 pkg update && pkg upgrade
