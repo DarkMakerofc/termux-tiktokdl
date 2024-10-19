@@ -4,6 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "@mrnima/tiktok-downloader": "^1.0.0",
+    "chalk": "^4.1.2",
     "fs": "^0.0.1-security",
     "https": "^1.0.0",
     "inherits": "^2.0.3",
